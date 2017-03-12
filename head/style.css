@@ -1,0 +1,62 @@
+*{
+ margin:0; padding:0;
+}
+
+.clear{
+  clear:both;
+}
+
+body{
+font-family:'Times New Roman',arial;
+font-style:16px;
+}
+
+table.tbl1{
+margin-top:10px;
+margin-left:50px;
+display:table-row;
+text-align:center;
+color:#004AFB;
+}
+
+table.tbl1 tr td input[type='text']{
+height:24px;
+line-height:24px;
+}
+
+table.tbl1 tr th{
+font-size: 26px;
+color: red;
+margin-bottom:50px;
+}
+
+#wrapper{
+width:960px;
+height:400px;
+margin:100px auto;
+background-color:#D3DFE4;
+overflow: hidden;
+padding:10px;
+}
+
+#wrapper h1{
+color:red;
+text-align:center;
+font-size:36px;
+margin-bottom:30px;
+}
+
+#wrapper_header{
+width:960px;
+height: auto;
+margin-bottom: 20px;
+margin-left:200px;
+}
+
+#wrapper_form{
+width:960px;
+height:auto;
+margin-left:50px;
+}
+
+

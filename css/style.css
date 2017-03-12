@@ -1,0 +1,263 @@
+*{margin:0px; padding:0px;}
+
+body{font-family:'Time New Roman','arial'; font-size:16px; line-height:25px;  display:block; background-color:#719937;}
+
+header{width:980px; margin:0 auto; height:auto; background:url(../images/header1.png);margin-top:20px; }
+.header_part{width:980px;margin:0 auto; overflow:hidden;}
+.logo{width:160px;float:left;}
+.logo img{height:60px; margin-top:42px;margin-left:20px;}
+.welcome{width:500px;float:left; margin-top:50px;}
+.welcome h2{margin-top:20px;margin-left:100px;text-align:center; color:#FFE669;font-family:'InactiveCaption';}
+.top_menubar{width:320px; float:left;}
+.menubar{width:250px; float:left; margin-left:50px; padding:20px; }
+.menubar ul{list-style:none;}
+.menubar ul li{ float:left;padding:3px; margin:3px;margin-top:45px;border-left:1px solid;#8DD241;}
+.menubar ul li a{color:#69C238; text-decoration:none;}
+.menubar ul li a:hover{color:#EEF082}
+.menu{}
+.menu ul{list-style:none;}
+.menu ul li{float:left;font-size:20px;padding-right:20px;margin-top:35px;border-right:1px solid;#FFFFFF;}
+.menu ul li a{color:#69C238; text-decoration:none;margin-left:10px;}
+.menu ul li a:hover{color:#EEF082;}
+
+content {}
+.slider_part{width:980px;margin:0 auto;}
+.main_body{width:980px;margin:0 auto;background:#D67143; overflow:hidden;}
+.content_part{width:980px; margin:0px auto;}
+
+/*-----Left content part */
+.left_content{width:590px; float:left; margin-top:40px;margin-left:5px;}
+
+/*-----Right content part */
+.right_content{width:380px; float:right;margin-top:40px;border-left:1px solid;#0E3080;}
+.notice{width:380px; float:left;border-bottom:1px solid;#0E3080;}
+.photo{width:145px;float:left;margin-top:5px;margin-left:10px;}
+.photo img{height:60px;}
+.text_1{width:220px; float:right;}
+.president{width:380px; float:left;border-bottom:1px solid;#0E3080;}
+.photo_1{width:145px;float:left;margin-top:8px;margin-left:10px;}
+.photo_1 img{height:100px;}
+.vice_president{width:380px; float:left;border-bottom:1px solid;#0E3080;}
+.campus{width:380px; float:left;}
+.photo_2{width:145px;float:left;margin-top:5px;margin-left:10px;}
+.photo_2 img{height:55px;}
+h2{font-size:20px;}
+
+footer{width:980px;margin:0 auto; height:auto; background:url(../images/header1.png);margin-bottom:20px;}
+.footer_part{width:980px;margin:0 auto; overflow:hidden;}
+.footer_text{text-align:center;}
+.footer_text1{}
+.footer_text2{color:#F3D00D;margin-left:30px;text-decoration:none;}
+.footer_text2 a{color:#F3D00D;text-decoration:none;}
+
+/*-----about_us Page Css*/
+.president1{width:598px; float:left;}
+.president1{width:598px; float:left;}
+.photo_p{width:150px;float:left;margin-top:8px;margin-left:10px;}
+.photo_p img{height:60px;}
+.text_p{width:598px;}
+
+/*-----contuct_us Page Css*/
+#content
+{ width: 600px;
+  margin:0 0 20px 20px;
+  float: left;}
+  
+  
+.content_item
+{ width: 600px;
+  margin-top: 20px;
+  margin-bottom: 20px;}
+
+.form_settings
+{ margin: 15px 0 0 0;}
+
+.form_settings p
+{ padding: 0 0 4px 0;}
+
+.form_settings span
+{ float: left; 
+  width: 250px; 
+  text-align: left;
+  text-shadow: none;}
+  
+.form_settings input, .form_settings textarea
+{ padding: 2px; 
+  width: 300px; 
+  font: 100% arial; 
+  border: 1px solid #E5E5DB; 
+  background: #FFF; 
+  color: #47433F;}
+  
+.form_settings .submit
+{ font: 100% arial; 
+  border: 1px solid; 
+  width: 99px; 
+  margin: 0 0 0 206px; 
+  height: 26px;
+  padding: 2px 0 3px 0;
+  cursor: pointer; 
+  background: #0043A8;
+  background: -moz-linear-gradient(#43A9FF, #0043A8);
+  background: -o-linear-gradient(#43A9FF, #0043A8);
+  background: -webkit-linear-gradient(#43A9FF, #0043A8);
+  border-radius: 15px 15px 15px 15px;
+  -moz-border-radius: 15px 15px 15px 15px;
+  -webkit-border: 15px 15px 15px 15px;
+  -webkit-box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;
+  -moz-box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;
+  box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;
+  color: #FFF;}
+
+  /*-----Registration Page Css */
+
+.main_registraion{width:980px; height:auto; margin:0 auto; margin-top:0px; display:block; overflow:hidden; color:#FFFFFF; }
+.login h2{color:#FD0000; margin-left:300px;margin-top:20px; font-size:30px;}
+.registration_box{padding-top:5px;text-align:left;text-align:justify;line-height:40px;border-top:1px solid;#FFFFFF; border-bottom:1px solid;#FFFFFF;
+border-right:1px solid;#FFFFFF;border-left:1px solid;#FFFFFF; }
+table{margin:0px auto; line-height:45px;}
+.profile_image input[type=file]{height:30px;}
+.profile_image2 {margin-left:}
+.username input[type=text]{min-width:220px;padding:5px;border:1px solid #ddd;margin-left:38px}
+.f_name input[type=text]{min-width:220px;padding:5px;border:1px solid #ddd;margin-left:46px}
+.l_name{line-height:35px;}
+.l_name input[type=text]{min-width:220px;padding:5px;border:1px solid #ddd;margin-left:47px}
+.user_type select {min-width:230px;padding:5px;border:1px solid #ddd; height:30px; margin-left:50px;}
+.post_type select {min-width:230px;padding:5px;border:1px solid #ddd; height:30px; margin-left:25px;}
+.gender input[value=male] {margin-left:70px}
+.contact input[type=text]{min-width:220px;padding:5px;border:1px solid #ddd;margin-left:13px}
+.address textarea{padding:5px;border:1px solid #ddd; margin-left:63px; margin-top:15px;}
+.birthday select[name=birth_month]{padding:3px;border:1px solid #ddd;margin-left:37px}
+.birthday select[name=birth_day]{padding:3px;border:1px solid #ddd;margin-left:3px;}
+.birthday select[name=birth_year]{padding:3px;border:1px solid #ddd;margin-left:3px;}
+.birthday option{min-width:0px;padding:2px;margin-left:3px;margin-right:4px}
+.email input[type=text]{min-width:220px;padding:5px;border:1px solid #ddd;margin-left:82px}
+.confirm_email  input[type=text]{min-width:220px;padding:5px;border:1px solid #ddd;margin-left:30px}
+.password input[type=password]{min-width:220px;padding:5px;border:1px solid #ddd;margin-left:55px}
+.confirm_pass{}
+.confirm_pass input[type=password]{min-width:220px;padding:5px;border:1px solid #ddd;margin-left:2px}
+.login_button{margin-right:152px; margin-top:5px; float:right;}
+.login_button input[value=Submit]{}
+.login_button input[type=submit]{min-width:80px;min-height:40px;}
+.login_button :hover{color:green;}
+.confirm_pass1 input[type=password]{min-width:220px;padding:5px;border:1px solid #ddd;margin-left:26px}
+.confirm_pass2 input[type=password]{min-width:220px;padding:5px;border:1px solid #ddd;margin-left:26px}
+.Pmethod select {min-width:230px;padding:5px;border:1px solid #ddd; height:30px; margin-left:10px;}
+.update_profile input{padding:6px; font-size:18px; margin-left:140px;}
+.profile_image input[type=file]{height:30px;}
+.profile_image2 {margin-left:}
+  
+ /*-----Products_Items Page Css*/
+.main2{width:980px; height:auto; margin:0px auto; margin-top:1px; display:block;} 
+.p_items {width:980px; margin:0 auto;}
+.p_items h1{margin:10px; color:#FF0000; }
+.arrow{width:50px;height:50px;}
+.products_items{margin-top:2px;}
+.p_items h4{ font-size:16px; color:#4BB848; }
+
+table.tbl2 {
+	margin-top: 10px;
+}
+
+table.tbl2 tr th, table.tbl2 tr td {
+	padding: 8px;
+} 
+
+table.tbl2 tr td {
+	text-align: center;
+}
+
+table.tbl2 tr th {
+	background: #1D1D1D url(../images/pattern.png) fixed; 
+	color: #fff;
+}
+
+table.tbl2 tr:nth-child(2n+1) td {
+	background-color: #FFFFFF;
+}
+
+table.tbl2 tr:nth-child(2n) td {
+	background-color: #FFFFFF;
+}
+
+table.tbl2 tr td a {
+	color: #EB5447;
+	text-decoration: none;
+}
+table.tbl2 tr td a :hover{
+	color: #000;
+}
+table.tbl2 h3 {
+	border-bottom: 2px solid #000;
+}
+
+.error {
+	color: red;
+	font-weight: bold;
+}
+
+.success {
+	color: green;
+	font-weight: bold;
+}
+/* ====================== Pagination Starts ====================== */
+
+div.pagination {
+width:980px; margin:3px auto;
+    padding: 3px;
+	z-index: 1000;
+	font-size: 14px;
+	margin-top:-20px;
+	margin-bottom:5px;
+}
+
+div.pagination a {
+    padding: 5px 7px;
+    margin: 2px;
+    border: 1px solid #0D6B23;
+    text-decoration: none; /* no underline */
+	background-color: #1DA93E;
+    color: #FFF;
+	font-weight: bold;
+}
+
+div.pagination a:hover, div.pagination a:active {
+    border: 1px solid #0D6B23;
+    color: #FFF;
+	background-color: #63BC78;
+}
+
+div.pagination span.current {
+    padding: 5px 7px;
+    margin: 2px;
+	border: 1px solid #0D6B23;
+	font-weight: bold;
+	background-color: #63BC78;
+	color: #FFF;
+	font-weight: bold;
+}
+
+div.pagination span.disabled {
+	padding: 5px 7px;
+	margin: 2px;
+	border: 1px solid #929693;
+	color: #929693;
+}
+/* ====================== Pagination Ends ====================== */	
+
+/*-----Login Page Css*/
+.header2{overflow:hidden; background-color:#004A7D;width:980px;margin:0 auto;}
+.logo2{text-align:center}
+.login2{text-align:center;margin-top:2px;margin-bottom:10px;}
+.login2 h2{color:#eee;}
+.login_box2{width:500px; margin:0 auto; padding-top:10px;text-align:center;margin-top:20px;margin-bottom:20px;border-top:1px solid;#FFFFFF;
+border-bottom:1px solid;#FFFFFF;border-left:1px solid;#FFFFFF;border-right:1px solid;#FFFFFF;}
+.username2{line-height:10px;padding:5px; color:#eee;}
+.username2 input[type=text]{min-width:200px;padding:5px;border:1px solid #ddd; margin-left:38px;}
+.password2{line-height:50px;padding:5px;margin-left:8px; color:#eee;}
+.password2 input[type=password]{min-width:200px;padding:5px;border:1px solid #ddd; margin-left:40px;}
+.user_type2{line-height:50px;padding:5px; color:#eee;}
+.user_type2 select {min-width:210px;padding:5px;border:1px solid #ddd; height:30px; margin-left:40px;}
+.login_button2{line-height:30px;}
+.login_button2 :hover{color:#EC5A4C; font-size:20px;}
+.login_button2 input[type=submit]{min-width:80px; min-height:30px;margin-left: 5px; font-size:18px; }
